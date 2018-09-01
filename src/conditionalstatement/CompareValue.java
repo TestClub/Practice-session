@@ -22,7 +22,7 @@ public class CompareValue {
             System.out.println("Num1 is less then num2");
         }
 
-
+//condition
 
     }
 
